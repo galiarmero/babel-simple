@@ -1,0 +1,1 @@
+let hello = "Babel is working if this becomes a var declaration";

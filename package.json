@@ -1,0 +1,32 @@
+{
+  "name": "babel-simple",
+  "version": "1.0.0",
+  "description": "Simple Babel setup using Node API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "runner": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galiarmero/babel-simple.git"
+  },
+  "keywords": [
+    "babel",
+    "transpiler",
+    "node",
+    "setup",
+    "boilerplate",
+    "es6"
+  ],
+  "author": "Gali Armero",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/galiarmero/babel-simple/issues"
+  },
+  "homepage": "https://github.com/galiarmero/babel-simple#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
