@@ -180,6 +180,7 @@ Babel bridges the gap between developers and TC39 (Ecma International, Technical
   - [YouTube](https://www.youtube.com/watch?v=fntd0sPMOtQ)
 - [The TC39 Process](https://tc39.github.io/process-document/)
 - [TC39 Meetings](http://www.ecma-international.org/memento/TC39-M.htm)
+- [The TC39 process for ECMAScript features](http://2ality.com/2015/11/tc39-process.html)
 - [AST Explorer](https://astexplorer.net/)
 
 
