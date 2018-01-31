@@ -89,7 +89,9 @@ The ECMA Technical Committee 39 (TC39) is responsible for evolving ECMAScript an
   </tbody>
 </table>
 
+Source: [The TC39 Process](https://tc39.github.io/process-document/).
 
+## What is Babel for, then?
 
 JavaScript engines have differing pace in terms of compliance with specification changes as there are many factors to be considered, including optimization.  The [ES6 Compatibility Table](https://kangax.github.io/compat-table/es6/) shows what features are currently supported in major browsers.
 
@@ -176,7 +178,12 @@ Babel bridges the gap between developers and TC39 (Ecma International, Technical
 - Henry Zhu. _So how does Babel even work?_ React Rally 2017. 
   - [GitHub](https://github.com/hzoo/so-how-does-babel-even-work)
   - [YouTube](https://www.youtube.com/watch?v=fntd0sPMOtQ)
+- [The TC39 Process](https://tc39.github.io/process-document/)
+- [TC39 Meetings](http://www.ecma-international.org/memento/TC39-M.htm)
+- [AST Explorer](https://astexplorer.net/)
+
 
 ## Shout-outs
 
 - [Henry Zhu](https://github.com/hzoo)
+- [Felix Kling](https://github.com/fkling)
