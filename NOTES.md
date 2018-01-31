@@ -173,6 +173,18 @@ Babel bridges the gap between developers and TC39 (Ecma International, Technical
 **Now**, developers get to try the proposals and gives feedback on what works and what doesn't. TC39 hears the community out.
 
 
+## More technical Babel stuff
+
+### babel-cli
+
+> Tool for transpiling code through command line
+
+```
+npm install babel-cli --save-dev
+node_modules\.bin\babel --out-file compiled.js src\source_code.js
+```
+
+
 ## Useful Links
 
 - Henry Zhu. _So how does Babel even work?_ React Rally 2017. 
